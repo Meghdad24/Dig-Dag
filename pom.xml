@@ -61,7 +61,7 @@
                         <id>default-cli</id>
                         <configuration>
                             <mainClass>
-                                com.personal.graphic.game.digdag/com.personal.graphic.game.digdag.HelloApplication
+                                com.personal.graphic.game.digdag/com.personal.graphic.game.digdag.util.HelloApplication
                             </mainClass>
                         </configuration>
                     </execution>

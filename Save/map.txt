@@ -1,0 +1,13 @@
+b,b,b,b,b,o,b,b,b,b,b,b
+b,o,b,b,b,o,b,b,o,o,o,b
+b,B,b,r,b,o,b,b,b,b,b,b
+b,o,b,b,b,o,b,b,b,b,b,b
+b,o,b,b,b,o,b,b,b,b,b,b
+b,b,b,b,o,*,o,b,b,b,b,b
+b,b,b,b,b,b,b,b,o,b,b,b
+b,o,D,o,o,b,b,b,o,r,b,b
+b,b,b,b,b,b,b,b,o,b,b,b
+b,b,r,b,b,b,b,b,o,b,b,b
+b,b,o,b,b,b,b,b,o,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b
+

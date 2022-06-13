@@ -6,4 +6,6 @@ module com.personal.graphic.game.digdag {
 
     opens com.personal.graphic.game.digdag to javafx.fxml;
     exports com.personal.graphic.game.digdag;
+    exports com.personal.graphic.game.digdag.util;
+    opens com.personal.graphic.game.digdag.util to javafx.fxml;
 }
